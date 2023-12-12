@@ -56,7 +56,9 @@
     (kbd "RET") 'nov-browse-url
     (kbd "<follow-link>") 'mouse-face
     (kbd "<mouse-2>") 'nov-browse-url
-    (kbd "TAB") 'shr-next-link
+    (kbd "TAB") 'nov-goto-toc
+    (kbd "d") 'evil-scroll-down
+    (kbd "u") 'evil-scroll-up
     (kbd "M-TAB") 'shr-previous-link
     (kbd "<backtab>") 'shr-previous-link
     (kbd "SPC") 'nov-scroll-up
