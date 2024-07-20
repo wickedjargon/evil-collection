@@ -47,8 +47,8 @@
 
     "[[" 'devdocs-previous-page
     "]]" 'devdocs-next-page
-    "gk" 'devdocs-previous-page
-    "gj" 'devdocs-next-page
+    "gk" 'devdocs-previous-entry
+    "gj" 'devdocs-next-entry
 
     "g." 'devdocs-goto-target
 
